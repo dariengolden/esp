@@ -1,0 +1,1 @@
+The Exam Scheduling Problem (ESP) is a real‑world constraint satisfaction and optimization problem faced by universities and colleges every academic term. The objective is to assign final examinations for multiple courses into available time slots and examination rooms such that conflicts are avoided, resources are used efficiently, and student inconvenience is minimized.
